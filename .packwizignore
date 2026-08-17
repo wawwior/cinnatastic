@@ -1,0 +1,7 @@
+.direnv
+.envrc
+.github
+flake.nix
+flake.lock
+TODO.md
+README.md

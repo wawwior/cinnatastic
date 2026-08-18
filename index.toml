@@ -246,7 +246,7 @@ hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+hash = "85dfa35d882cd38f06689a624f99e419b8202138d97d2afca55d822daaca15bc"
 
 [[files]]
 file = "config/lithostitched.json"
@@ -654,11 +654,6 @@ hash = "a21fa227dbbeae06cfbec6de71b885a5050ade4f648ec2f608145540a74e9f72"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "ba2c894c1c5f91604fa40d2c47cfee56cbb41cdb80c84b08bccaf4c17a34760c"
 metafile = true
@@ -706,11 +701,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "cc903ca450e9667ad5a951110f6e84f22c9e52635bf39321ca4294bc8313797e"
-metafile = true
-
-[[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]

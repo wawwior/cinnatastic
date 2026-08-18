@@ -1,5 +1,38 @@
 {
   "layers": {
+    "brewinandchewin:food_offset": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "brewinandchewin:food_offset"
+    },
+    "brewinandchewin:intoxication": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "brewinandchewin:intoxication"
+    },
+    "brewinandchewin:tipsy": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "brewinandchewin:tipsy"
+    },
     "controlify:button_guide": {
       "displacement": {
         "x": 0,

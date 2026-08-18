@@ -1,12 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aeronautics-server.toml"
+hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "aeedd65c113ba7e1442e4106f0ca0f95728f4addd39ae90a84f50aff2de7c538"
+
+[[files]]
 file = "config/blueprint-client.toml"
 hash = "cf742e2b9b3d16a1a9cb448b47f2434f7c7148b6af74192d59a4006c19ddc557"
 
 [[files]]
 file = "config/blueprint-common.toml"
 hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
+
+[[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "1bb070627f60188b5924bd27f1e7fbf0b4cfe573c8a1f54bf7927c3c4d437f05"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "cf7e8f3ae75a942e0c8b62f14fa68df3963b47c9c38895c2d7ba59c2bcb079ab"
 
 [[files]]
 file = "config/c2me.toml"
@@ -31,6 +67,10 @@ hash = "e49b119ae58a21af4d9ce64a2030fca5ca19068d03690e7fa25ba2b838b73136"
 [[files]]
 file = "config/climbable_ropes-client.toml"
 hash = "f8ffe28d0054cfa5aebc8e5a86da175bb0dbf01461034bdaf4aa6ad1bd53bbc4"
+
+[[files]]
+file = "config/climbable_ropes-server.toml"
+hash = "f72f094ea3c2af730edcadf11e4d883ec348acae5dfff66984ca3bc19a7d4bf2"
 
 [[files]]
 file = "config/clutternomore/client.toml"
@@ -65,8 +105,40 @@ file = "config/create-common.toml"
 hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365"
+
+[[files]]
+file = "config/create_central_kitchen-client.toml"
+hash = "cd23ac4f2ce6a45b649d26077484476f18854d28bae7749d132dfc7d1139ca8d"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "9181ff82252d2e51065cc6cbfbe612bc597d1246146a579b0a6f38cc444fc4e9"
+
+[[files]]
+file = "config/create_dragons_plus-client.toml"
+hash = "a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290"
+
+[[files]]
+file = "config/create_dragons_plus-common.toml"
+hash = "fb87b42ab58cfa12776d501de901e2c61d2af7250235b0db57f1f9c083ff213d"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+hash = "795092d792196127eb8c77ec66839b688d7cca38629825984c17afd9e02baf68"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-server.toml"
+hash = "0de5b1bdbe632be0df582afe49a8073b38816b58a5016c0806cd6cf52666917e"
+
+[[files]]
 file = "config/dnd_aero_compat-common.toml"
 hash = "c134947807ae62b84cbd7622a4938c3a3b9b9877773bd41b5cf785861bcb405e"
+
+[[files]]
+file = "config/dndecor-server.toml"
+hash = "345ae2a5b965fbc3d2b506d91dbe61b8dc143a06c4d543ca12f4a00e8dfa9a15"
 
 [[files]]
 file = "config/e4mc/e4mc.toml"
@@ -102,7 +174,7 @@ hash = "560e23d7928e2f7ad8626733d5b572c8b64356e0c80a3d0a8bb1635f68afae5a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8d8d513095dc9dc3a4f689edaf1941df07edfdf1f24de92517f309c4002ec2c6"
+hash = "2fd1b31f5a4bd26db6d236ef053865e6c897b976df20e4ad34c9481925cc3780"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -133,8 +205,40 @@ file = "config/immersive-hotbar.json5"
 hash = "720f67a5080890c5d02d4f9fcf797ab64adc544df17824c1c872b235cf32e2e1"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "1d66a563524f20dcde69962b78d79ed35fe8122803397592c27ba085030530c3"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "5de3969a31149d8974d96bfebb8a1c160d6d5e93fd54fed8e95f6d8ea48427c3"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "7efd95f01935a92f8d04f6c080da6e677bc1c98e96399951910f446b2f734330"
+
+[[files]]
 file = "config/kiwi-client.yaml"
-hash = "d9def454899a78979c8ed8ee90a654691ef4ae62e0d3ccd3c5fcd3a5a2c23c35"
+hash = "6578bc417fc04cc6e57b330bf139a6d48ab5fc9de95638ae283f14975178ac3d"
 
 [[files]]
 file = "config/kiwi-common.yaml"
@@ -181,12 +285,20 @@ file = "config/moonlight-common.toml"
 hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
 
 [[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
 file = "config/neoforge-client.toml"
 hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
 
 [[files]]
 file = "config/neoforge-common.toml"
 hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
 file = "config/nomansland-client.toml"
@@ -199,6 +311,10 @@ hash = "cc5b105fe90e6104d452f0f20d4e4adf9caec13a8224d1077ab4233079d8c940"
 [[files]]
 file = "config/nomansland-startup.toml"
 hash = "addbf551b0356503f381675814409d30f051b08ff8c1e5e40bd89879435add6b"
+
+[[files]]
+file = "config/offroad-server.toml"
+hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
 file = "config/packed_packs/__version.json"
@@ -234,7 +350,7 @@ hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "5692cbc9f6ed5b5a60c640e79130796d85e020fcff02721c012ed7018e11c3d6"
+hash = "f8f8a75d9ea4ffa94642fc78ef1cf56a592fb75988f71c35b951891a8d6f702a"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -242,7 +358,7 @@ hash = "8c553dc872f7445c2295a8e81e3b7870ac2164a24191cf1776c5a4650ef0be5b"
 
 [[files]]
 file = "config/raised.json"
-hash = "c1f87abfabe0e51fcf740a97b208836e9b0c38ad7a5019babfa1e3abd7d05091"
+hash = "2c4ba1eb96d4eefab197dfac32c6eb822c669d1aba7bd04428292b07ee828754"
 
 [[files]]
 file = "config/sable-client.toml"
@@ -251,6 +367,10 @@ hash = "0dd32460fb2fc6a4e438784924c377f11ba416732be1daff68c951e2e197d42d"
 [[files]]
 file = "config/sable-common.toml"
 hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
+
+[[files]]
+file = "config/sable-server.toml"
+hash = "086c61695c31826b3fbcd4e5f55be8f42c3e4f25d6e1d3ffb680588a7457d2bc"
 
 [[files]]
 file = "config/scholar-client.toml"
@@ -267,6 +387,10 @@ hash = "6d9c50a2a4735791dcdeb2771874776763579689f6aa1fd8311aa7c09ede989e"
 [[files]]
 file = "config/simulated-client.toml"
 hash = "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b"
+
+[[files]]
+file = "config/simulated-server.toml"
+hash = "74ceaca226933e2471df76e5f6a8b1d0e2e339754419fd7c0c8f37fb3b90d243"
 
 [[files]]
 file = "config/sneaky.cfg"
@@ -346,12 +470,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/zfastnoise.mixin.properties"
-hash = "1e8b564a327e0bb2b6430305d319ebd1ca3a5846f8082ee4e19e54817335e7f8"
-
-[[files]]
-file = "mods/almostunified.pw.toml"
-hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
-metafile = true
+hash = "12c16f7f03e73d06a5b8e31263e784e83d6864979d54e7cc8f3d2bbfbfd8e77c"
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
@@ -439,6 +558,11 @@ hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor-aeronautics-compat.pw.toml"
 hash = "bb87ade29771a792bb8abe3247f8f0cc013fa566a7285427d07a008fa1a29f60"
 metafile = true
@@ -446,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "80547db2ebfc71d0d649534fe6fee7dabcf2a58770e8ff38218f6db874382204"
 metafile = true
 
 [[files]]
@@ -531,6 +660,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ba2c894c1c5f91604fa40d2c47cfee56cbb41cdb80c84b08bccaf4c17a34760c"
 metafile = true
 
 [[files]]

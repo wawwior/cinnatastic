@@ -349,6 +349,11 @@ file = "config/zfastnoise.mixin.properties"
 hash = "1e8b564a327e0bb2b6430305d319ebd1ca3a5846f8082ee4e19e54817335e7f8"
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
@@ -519,6 +524,11 @@ hash = "a21fa227dbbeae06cfbec6de71b885a5050ade4f648ec2f608145540a74e9f72"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
@@ -561,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "cc903ca450e9667ad5a951110f6e84f22c9e52635bf39321ca4294bc8313797e"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]

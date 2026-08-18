@@ -37,7 +37,9 @@
   "firstPersonModelHidePitch": 60.0,
   "itemBlacklist": [
     "create:extendo_grip",
-    "create:potato_cannon"
+    "create:potato_cannon",
+    "create:handheld_worldshaper",
+    "simulated:plunger_launcher"
   ],
   "blacklistApplyDualHanded": {
     "create:extendo_grip": false,

@@ -1,0 +1,13 @@
+name = "Stylish Creepers"
+filename = "stylish_creeper_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HR1M4vnb/versions/wNk5LqOG/stylish_creeper_v1.1.zip"
+hash-format = "sha512"
+hash = "bd89a09a3788fbdf1c8d40a8058cc7347b15a670ead9fd7bde6b7b7f3b25191b77f470a049ab6cc1ab9a1b980bde62c51968521d0bea4181500d3b657b543edf"
+
+[update]
+[update.modrinth]
+mod-id = "HR1M4vnb"
+version = "wNk5LqOG"

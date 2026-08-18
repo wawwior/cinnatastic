@@ -1,0 +1,13 @@
+name = "Dennis Painting Backport"
+filename = "good-boy-painting-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XMqDA0Re/versions/WlzJCjIg/good-boy-painting-1.3.jar"
+hash-format = "sha512"
+hash = "4b55a2fcf9e84bf205d9e32b0b53e97d3a9b1e4fcc0d2e085900cd438f39917a68b20c9c1f5e5bfd5741cf63b7f0bf2d36488d45036a859c6c0b89e928fc7d65"
+
+[update]
+[update.modrinth]
+mod-id = "XMqDA0Re"
+version = "WlzJCjIg"

@@ -1,0 +1,13 @@
+name = "BiomeBloom"
+filename = "§aBiomeBloom§8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZQBkAbo/versions/cfuxc2Bo/%C2%A7aBiomeBloom%C2%A78.zip"
+hash-format = "sha512"
+hash = "990f7204e571232fc7c32a0b4cdc7795127bbb2dc70f00c20d44186b7b4e62730efc52a94bfc3475ed948a487479101a1c798203d7cdfcc2c1a472a2ee53db2c"
+
+[update]
+[update.modrinth]
+mod-id = "zZQBkAbo"
+version = "cfuxc2Bo"

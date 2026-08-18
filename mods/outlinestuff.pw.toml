@@ -1,0 +1,13 @@
+name = "Outline N' Stuff - Enchantments"
+filename = "astoutline-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JjiaUeWd/versions/PN6Ukrz5/astoutline-3.0.0.jar"
+hash-format = "sha512"
+hash = "2d8b4f355814636fc44a1135519b401ea7b2bcec326df09351747d0a91a51f8830b426a643e4b6a14e9ff71b8c8abd2328bf791f56d09d28e4ab7e3180f10045"
+
+[update]
+[update.modrinth]
+mod-id = "JjiaUeWd"
+version = "PN6Ukrz5"

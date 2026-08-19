@@ -5,26 +5,6 @@ file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
 [[files]]
-file = "config/almostunified/duplicates.json"
-hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
-
-[[files]]
-file = "config/almostunified/placeholders.json"
-hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
-
-[[files]]
-file = "config/almostunified/startup.json"
-hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
-
-[[files]]
-file = "config/almostunified/tags.json"
-hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
-
-[[files]]
-file = "config/almostunified/unification/materials.json"
-hash = "aeedd65c113ba7e1442e4106f0ca0f95728f4addd39ae90a84f50aff2de7c538"
-
-[[files]]
 file = "config/blueprint-client.toml"
 hash = "cf742e2b9b3d16a1a9cb448b47f2434f7c7148b6af74192d59a4006c19ddc557"
 
@@ -201,10 +181,6 @@ file = "config/immersive-hotbar.json5"
 hash = "720f67a5080890c5d02d4f9fcf797ab64adc544df17824c1c872b235cf32e2e1"
 
 [[files]]
-file = "config/item_obliterator.json5"
-hash = "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6"
-
-[[files]]
 file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
@@ -279,10 +255,6 @@ hash = "f304723bb9b23c030cae5abe6f8bbdfa4ad7f1f93aa675bd48f28fae226480dc"
 [[files]]
 file = "config/moonlight-common.toml"
 hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
-
-[[files]]
-file = "config/necronomicon.json5"
-hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
 
 [[files]]
 file = "config/neoforge-client.toml"

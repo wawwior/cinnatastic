@@ -38,7 +38,7 @@ hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "e49b119ae58a21af4d9ce64a2030fca5ca19068d03690e7fa25ba2b838b73136"
+hash = "af1f56a4c604658810a1fde36b606e8280e005fbf659429014a54bc1c3870b25"
 
 [[files]]
 file = "config/climbable_ropes-client.toml"

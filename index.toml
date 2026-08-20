@@ -756,6 +756,11 @@ hash = "90c0315db55764485f375d5b6e8f39c412b367469f2004d3d2ce87805557c5a5"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
+metafile = true
+
+[[files]]
 file = "mods/sneaky.pw.toml"
 hash = "e96290239804a7b4110ce31993d8c1089e6ca0df36827c7063f21170dc8e4830"
 metafile = true

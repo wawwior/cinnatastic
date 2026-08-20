@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7902a6a95bef79a987295022f3a5672d59537776e7bb18db3abab05db70552e1"
+hash = "1683085bbe077f38e8538ad950fa156608700669ca3694a785549f73d9ee9148"
 
 [[files]]
 file = "resourcepacks/biome_bloom.pw.toml"

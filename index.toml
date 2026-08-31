@@ -506,6 +506,11 @@ hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "a516cae54142a38262b5b0163a30e119df844ee4bd11ad1cbea5accbc0334540"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "e753411e53ae58f46754b5ef60e70af81a9ec6b5e31f99c47777cc59fbbc5fe4"
 metafile = true
@@ -751,6 +756,11 @@ hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
 
 [[files]]
+file = "mods/sable-dynamic-lights.pw.toml"
+hash = "d29edb37ee2ddabd5598d2271c72e44fbdb147b5be13c886261b744d0509f20b"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "9828d3510390e79c136bd9269fb7d09dc4996cf26518780e2cd8f532399e26e6"
 metafile = true
@@ -803,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
+metafile = true
+
+[[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "c9f42561489d2a6779f989ab9cdd0d70840e4e80209602707e8d42324d1a4994"
 metafile = true
 
 [[files]]

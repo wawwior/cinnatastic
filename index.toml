@@ -409,6 +409,10 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 
 [[files]]
+file = "config/streamsreflowing-client.toml"
+hash = "0459cc9d11c7822418201ea938ab5e1a7cf6f4089e7307e22179179756d94957"
+
+[[files]]
 file = "config/tia-client.toml"
 hash = "9683298e10888b70654877fc15edcfd3351ad3a5cb4ff865e118897fbe7db1f1"
 

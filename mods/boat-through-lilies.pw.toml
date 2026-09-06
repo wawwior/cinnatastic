@@ -1,0 +1,13 @@
+name = "Boat Through Lilies"
+filename = "boat-through-lilies-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNjI422B/versions/nPFos8qg/boat-through-lilies-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "da3302d7721f8717279954ba5b188d218b6f32d1eecf7bf79fcc9ad82cfb6a6b606e5db9211ec32d93b08a736494f699a443da4e3267f45aa76a3dcef667db99"
+
+[update]
+[update.modrinth]
+mod-id = "sNjI422B"
+version = "nPFos8qg"

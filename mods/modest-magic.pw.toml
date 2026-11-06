@@ -1,0 +1,13 @@
+name = "Modest Magic"
+filename = "modestmagic-neoforge-1.21.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sWRvoDiO/versions/57I5nr5j/modestmagic-neoforge-1.21.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "84b0f7ad812adb11a8d681499d5096d1b524aa79a716cff5404afcde6f29b2c9237c3cfacc33088c49f6ca7478bd2fe320813718a75788b896402157f8446930"
+
+[update]
+[update.modrinth]
+mod-id = "sWRvoDiO"
+version = "57I5nr5j"

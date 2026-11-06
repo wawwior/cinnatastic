@@ -630,11 +630,6 @@ hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
-metafile = true
-
-[[files]]
 file = "mods/good-boy-painting.pw.toml"
 hash = "f10e7bdc91289a721d82de21ac7a9fb0089cf51f7c779f06a2afadfe77ac97fd"
 metafile = true
@@ -652,16 +647,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-hotbar.pw.toml"
 hash = "b82d7496b5f668f0ff37a32fcf2cc3a4f8f3410247fa76b1fb76e7d727b008bd"
-metafile = true
-
-[[files]]
-file = "mods/irons-artifice.pw.toml"
-hash = "a5a452c1f6d3fd2878115dbc0bcbb6454b219ff6aab184255a0cc59a3a940765"
-metafile = true
-
-[[files]]
-file = "mods/irons-lib.pw.toml"
-hash = "8941da7290825037921249274369a39440567f667df2eead412cf54423168f7e"
 metafile = true
 
 [[files]]

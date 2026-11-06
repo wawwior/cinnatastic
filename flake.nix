@@ -3,24 +3,30 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
-    flake-utils.url = "github:numtide/flake-utils";
+    flake-parts.url = "github:hercules-ci/flake-parts";
+    fetch-packwiz.url = "git+file:///home/wawwior/projects/nix/fetch-packwiz";
   };
 
   outputs =
-    inputs@{ self, ... }:
-    inputs.flake-utils.lib.eachDefaultSystem (
-      system:
-      let
-        pkgs = inputs.nixpkgs.legacyPackages.${system};
-      in
-      {
-        devShells = {
-          default = pkgs.mkShell {
-            packages = with pkgs; [
-              packwiz
-            ];
+    inputs:
+    inputs.flake-parts.lib.mkFlake { inherit inputs; } (
+      { self, lib, ... }: {
+        perSystem = { pkgs, ... }: {
+          devShells = {
+            default = pkgs.mkShell {
+              packages = with pkgs; [
+                packwiz
+              ];
+            };
           };
         };
+        flake = {
+          manifest = inputs.fetch-packwiz.lib.mkManifest ./pack.toml;
+          pack = inputs.fetch-packwiz.lib.mkPackwizPack {
+            inherit (self) manifest;
+          };
+        };
+        systems = lib.systems.flakeExposed;
       }
     );
 }

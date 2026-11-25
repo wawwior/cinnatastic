@@ -4,13 +4,12 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     flake-parts.url = "github:hercules-ci/flake-parts";
-    fetch-packwiz.url = "git+file:///home/wawwior/projects/nix/fetch-packwiz";
   };
 
   outputs =
     inputs:
     inputs.flake-parts.lib.mkFlake { inherit inputs; } (
-      { self, lib, ... }: {
+      { lib, ... }: {
         perSystem = { pkgs, ... }: {
           devShells = {
             default = pkgs.mkShell {
@@ -20,12 +19,12 @@
             };
           };
         };
-        flake = {
-          manifest = inputs.fetch-packwiz.lib.mkManifest ./pack.toml;
-          pack = inputs.fetch-packwiz.lib.mkPackwizPack {
-            inherit (self) manifest;
-          };
-        };
+        # flake = {
+        #   manifest = inputs.fetch-packwiz.lib.mkManifest ./pack.toml;
+        #   pack = inputs.fetch-packwiz.lib.mkPackwizPack {
+        #     inherit (self) manifest;
+        #   };
+        # };
         systems = lib.systems.flakeExposed;
       }
     );
